@@ -25,5 +25,5 @@ funnel
 ![image](https://github.com/ShaikhSara96/Lead_Score_Analysis/assets/132265577/f0364cf2-0a5d-41e9-80b8-5c14a064acb2)
 
 
-# Build a logistic regression model to assign a lead score between 0 and 100 to each of the leads which can be used by the company to target potential leads. A higher score would mean that the lead is hot, i.e. is most likely to convert whereas a lower score would mean that the lead is cold and will mostly not get converted.#
+Build a logistic regression model to assign a lead score between 0 and 100 to each of the leads which can be used by the company to target potential leads. A higher score would mean that the lead is hot, i.e. is most likely to convert whereas a lower score would mean that the lead is cold and will mostly not get converted.
 
